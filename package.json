@@ -41,9 +41,6 @@
       "last 1 safari version"
     ]
   },
-  "overrides": {
-    "@types/react": "18.0.0"
-  },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
